@@ -3,7 +3,7 @@ from pygame import *
 from random import randint
 from time import time as trtrt
 
-#создай окно игры
+#создай окно игры аоаоаоаоа
 window = display.set_mode((700,500))
 display.set_caption('ААААААААААА')
 clock = time.Clock()
